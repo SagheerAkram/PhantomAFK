@@ -1,21 +1,32 @@
-MIT License
+Source-Available Educational & Non-Commercial License (Strict)
 
-Copyright (c) 2026 Sagheer
+Copyright (c) 2026 Sagheer (GitHub: @SagheerAkram)
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+By viewing, downloading, cloning, or interacting with this software ("PhantomAFK" or the "Software"),
+you agree to be bound by the following terms and restrictions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. GRANT OF LIMITED LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software to view,
+read, inspect, and run the Software solely for personal educational study, academic research, and
+authorized server administration testing.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. STRICT PROHIBITION ON SALE AND COMMERCIAL MONETIZATION
+Under NO circumstances may any individual, organization, or entity:
+  a. Sell, rent, lease, sub-license, assign, or monetize the Software or any portion, feature, script, or derivative work thereof.
+  b. Bundle or package the Software into paid services, commercial bot setups, hosting packages, paid Discord tiers, or paid repositories.
+  c. Charge any direct or indirect fee for access to, setup of, or usage of this Software.
+
+3. STRICT PROHIBITION ON PLAGIARISM AND RE-BRANDING
+  a. You may NOT re-upload, re-publish, fork-and-rebrand, or redistribute this Software under a different name or under your own name claiming original authorship.
+  b. All existing copyright notices, author credits, and license notices MUST remain intact and prominently displayed on all authorized copies and forks.
+  c. Stripping author attribution or falsely claiming authorship constitutes willful copyright infringement.
+
+4. NO DERIVATIVE REDISTRIBUTION WITHOUT PERMISSION
+Public redistribution, mirroring, or public broadcasting of modified copies or derivative forks of this Software is prohibited without the prior express written consent of the original copyright holder (Sagheer / @SagheerAkram).
+
+5. EDUCATIONAL PURPOSE & COMPLIANCE
+This Software is provided strictly for educational and technical research purposes as detailed in EDUCATIONAL_PURPOSE.md. Users assume all responsibility for compliance with third-party server terms, rules, and EULAs.
+
+6. DISCLAIMER OF WARRANTY & LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, ACCOUNT ACTIONS, SANCTIONS, OR OTHER LIABILITY ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

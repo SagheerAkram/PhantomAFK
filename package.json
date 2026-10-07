@@ -15,8 +15,8 @@
     "minecraft-bot",
     "gamertee-network"
   ],
-  "author": "Sagheer",
-  "license": "MIT",
+  "author": "Sagheer (https://github.com/SagheerAkram)",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "mineflayer": "^4.37.1",
     "ws": "^8.18.0"

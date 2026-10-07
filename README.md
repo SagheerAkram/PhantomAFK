@@ -5,15 +5,16 @@
 
 [![Platform: Termux / Android](https://img.shields.io/badge/Platform-Android%20Termux-brightgreen.svg)](#-why-run-on-phone-via-termux)
 [![Runtime: Node.js](https://img.shields.io/badge/Runtime-Node.js%20v18%2B-blue.svg)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational%20Only-orange.svg)](#-educational-disclaimer)
+[![License: Custom Strict](https://img.shields.io/badge/License-Non--Commercial%20%2F%20No--Sale-red.svg)](./LICENSE)
+[![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational%20Only-orange.svg)](./EDUCATIONAL_PURPOSE.md)
 
 ---
 
 ## 📌 Notice & Educational Disclaimer
 
 > **This project is strictly for educational, research, and server administration monitoring purposes.**  
-> PhantomAFK was built to explore lightweight headless client architectures, automated proxy transfer protocol handling, and decentralized headless mobile daemons. Please always review and respect the rules and terms of service of any Minecraft network before connecting automated clients.
+> Complete terms, guidelines, and compliance details are documented in [**EDUCATIONAL_PURPOSE.md**](./EDUCATIONAL_PURPOSE.md).  
+> PhantomAFK was built to explore lightweight headless client architectures, automated proxy transfer protocol handling, and decentralized mobile daemons. Please always review and respect the rules and terms of service of any Minecraft network before connecting automated clients.
 
 ---
 
@@ -242,6 +243,11 @@ PhantomAFK is intentionally lightweight and focused on **rock-solid 24/7 AFK sta
 
 ---
 
-## 📄 License
+## 📄 License & Restrictions
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the **Source-Available Educational & Non-Commercial License**.  
+See the full [**LICENSE**](./LICENSE) for details.
+
+* ❌ **No Resale:** You may NOT sell, bundle, or monetize this software in any paid package or service.
+* ❌ **No Plagiarism / Re-branding:** You may NOT re-upload or publish this project under your own name or claim original authorship.
+* ✅ **Educational Use:** You may freely view, inspect, and test the software for personal academic and research purposes.
