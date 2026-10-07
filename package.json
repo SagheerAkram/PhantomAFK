@@ -1,0 +1,24 @@
+{
+  "name": "phantom-afk",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight 24/7 Minecraft AFK Sentinel tested on Android Termux. Features queue-safe lobby navigation, join/leave tracking, chat bridge, and Discord gateway remote control.",
+  "main": "phantom_afk.js",
+  "scripts": {
+    "start": "node phantom_afk.js"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "afk-bot",
+    "termux",
+    "discord-bot",
+    "minecraft-bot",
+    "gamertee-network"
+  ],
+  "author": "Sagheer",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.37.1",
+    "ws": "^8.18.0"
+  }
+}

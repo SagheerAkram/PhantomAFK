@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Secrets and Local Configuration (STRICTLY EXCLUDED)
+config.json
+.env
+*.pem
+*.key
+
+# Logs and Runtime Artifacts
+*.log
+*.tmp
+*.pid
+phantom_runtime.log
+server_chat_history.log
+intel/
+
+# OS Metadata
+.DS_Store
+Thumbs.db

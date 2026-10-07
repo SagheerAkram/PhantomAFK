@@ -1,0 +1,18 @@
+{
+  "host": "play.gamertee.net",
+  "port": 25565,
+  "version": "1.20.4",
+  "username": "YourBotUsername",
+  "password": "YourBotPassword",
+  "compassSlot": 4,
+  "lifestealSlot": 15,
+  "reconnectDelayMs": 15000,
+  "discord": {
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "controlChannelId": "YOUR_CONTROL_CHANNEL_ID",
+    "panelMessageId": null,
+    "chatChannelId": "YOUR_CHAT_LOGS_CHANNEL_ID",
+    "rosterChannelId": "YOUR_JOIN_LEAVE_CHANNEL_ID",
+    "founderChannelId": "YOUR_FOUNDER_CHANNEL_ID"
+  }
+}
