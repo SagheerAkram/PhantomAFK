@@ -251,3 +251,8 @@ See the full [**LICENSE**](./LICENSE) for details.
 * ❌ **No Resale:** You may NOT sell, bundle, or monetize this software in any paid package or service.
 * ❌ **No Plagiarism / Re-branding:** You may NOT re-upload or publish this project under your own name or claim original authorship.
 * ✅ **Educational Use:** You may freely view, inspect, and test the software for personal academic and research purposes.
+
+---
+
+> **P.S.** Yes, parts of this README and docs were formatted with AI. So what? The bot, the code, the bugs, and the Termux battle scars are 100% real. 🦾
+
