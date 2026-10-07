@@ -46,4 +46,4 @@ The author assumes no liability or responsibility for bans, account terminations
 
 For questions regarding this educational statement or inquiries regarding authorized research:
 * **GitHub:** [@SagheerAkram](https://github.com/SagheerAkram)
-* **Website:** [sagheerprojects.fun](https://sagheerprojects.fun/)
+

@@ -238,8 +238,8 @@ PhantomAFK is intentionally lightweight and focused on **rock-solid 24/7 AFK sta
 > **Important:** PhantomAFK currently contains navigation and slot detection logic tailored specifically for the **GamerTee Network** (`play.gamertee.net`) lobby layout.  
 > If you need a customized version adapted for another network, different game modes, custom authentication plugins, or unique GUI menus, feel free to get in touch!
 
-* **GitHub:** [@SagheerAkram](https://github.com/SagheerAkram)  
-* **Portfolio / Projects:** [sagheerprojects.fun](https://sagheerprojects.fun/)
+* **GitHub:** [@SagheerAkram](https://github.com/SagheerAkram)
+
 
 ---
 
